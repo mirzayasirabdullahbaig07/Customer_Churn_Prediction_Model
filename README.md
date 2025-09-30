@@ -7,6 +7,10 @@ An **AI-powered web application** built with **Streamlit** that predicts whether
 ## 🚀 Demo
 🔗 [Live App on Streamlit](https://customerchurnprediction07.streamlit.app/)
 
+
+## 🚀 Short Video Demo
+[https://github.com/user-attachments/assets/889f0cba-29fe-4238-8ef6-60762f2dfda0](https://github.com/user-attachments/assets/889f0cba-29fe-4238-8ef6-60762f2dfda0)
+
 ---
 
 ## 📌 Features
